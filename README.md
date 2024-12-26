@@ -123,7 +123,7 @@ Happy coding and have a fantastic day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 TOP CONTRIBUTED REPOSITORY 
-![](https://github-contributor-stats.vercel.app/api?username=OMKARD45&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Tejas-Gopale&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
@@ -131,4 +131,4 @@ Happy coding and have a fantastic day!
 
 <br/>
  
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=Tejas-Gopale&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/omkard45)
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=Tejas-Gopale&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/Tejas-Gopale)
