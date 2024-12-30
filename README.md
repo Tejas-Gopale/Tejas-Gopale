@@ -123,9 +123,9 @@ Happy coding and have a fantastic day!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🔝 TOP CONTRIBUTED REPOSITORY 
-![](https://github-contributor-stats.vercel.app/api?username=Tejas-Gopale&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+<a href="https://github.com/Tejas-Gopale/your-repo-name" target="_blank">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Tejas-Gopale&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repository">
+</a>
 
  ## 💰 You can help me by Donating
 
