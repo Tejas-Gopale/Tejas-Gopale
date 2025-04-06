@@ -46,9 +46,15 @@ Happy coding and have a fantastic day!
 <a  href="https://www.linkedin.com/in/tejas-gopale-java-developer2801">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<!-- <a href="https://www.hackerrank.com/OmkarD45">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" title="HackerRank" alt="HackerRank" />
-</a> -->
+
+## 📂 *MY REPOSITORIES*
+Here are some of my projects that you can check out:
+
+- [Project 1: Repository Name](https://github.com/Tejas-Gopale/repo1) - Brief description of Project 1.
+- [Project 2: Repository Name](https://github.com/Tejas-Gopale/repo2) - Brief description of Project 2.
+- [Project 3: Repository Name](https://github.com/Tejas-Gopale/repo3) - Brief description of Project 3.
+- [Project 4: Repository Name](https://github.com/Tejas-Gopale/repo4) - Brief description of Project 4.
+- [Project 5: Repository Name](https://github.com/Tejas-Gopale/repo5) - Brief description of Project 5.
 
 ## 🕸 *WEB DEV*
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
@@ -71,7 +77,6 @@ Happy coding and have a fantastic day!
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 [![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")][repo]
 [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "Postgresql")][repo]
-
 
 ## 🎯 *PROGRAMMING LANGUAGES*
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")][repo]
@@ -124,11 +129,72 @@ Happy coding and have a fantastic day!
 
 ## 🔝 TOP CONTRIBUTED REPOSITORY 
 <a href="https://github.com/Tejas-Gopale/your-repo-name" target="_blank">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Tejas-Gopale&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repository">
+    <img src="https://github-contributor-st ats.vercel.app/api?username=Tejas-Gopale&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repository">
 </a>
 
  ## 💰 You can help me by Donating
 
 <br/>
  
-  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=Tejas-Gopale&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/Tejas-Gopale)
+  [![BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Buymeacoffee&emoji=&slug=Tejas-Gopale&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/Tejas-Gopale) ```markdown
+<h1 align="center"> 💫 Hi 👋🏻, I'm Tejas Gopale</h1> </br>
+<h2 align="center"><b>Welcome to My GitHub Profile!🚀</b></h2>
+
+Hey there! Thanks for stopping by my GitHub Profile. Here, you'll find a collection of my coding journey, projects, and collaborations. Feel free to explore, contribute, and learn together with me. Your feedback and suggestions are always appreciated. Let's keep coding and building amazing things! 👨‍💻🔥
+Happy coding and have a fantastic day!
+<hr>
+<br>
+
+![](https://komarev.com/ghpvc/?username=Tejas-Gopale&style=for-the-badge)
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/?username=Tejas-Gopale&show_icons=true" alt="git stats">  <br>
+
+## Fun Fact 🎈:
+
+<img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> 
+<img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
+<br />
+
+• 🔭 I’m currently working on <b>something cool!</b> <br/>
+• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
+• 💬 Ask me about <b>Full Stack</b>.<br/>
+</span>
+
+<br />
+<br />
+
+## 📊 GITHUB STATS:
+![](https://github-readme-streak-stats.herokuapp.com/?user=OmkarD45&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejas-Gopale&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
+
+## 🏆 GITHUB TROPHIES
+![](https://github-profile-trophy.vercel.app/?username=Tejas-Gopale&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+## 🌏 *CONNECT WITH ME*
+<a href="https://www.instagram.com/its_tejasgopale_0001"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram"/>
+</a>
+
+<a href="mailto:tejasgopale111@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+</a> 
+<a href="https://github.com/Tejas-Gopale"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
+</a> 
+<a  href="https://www.linkedin.com/in/tejas-gopale-java-developer2801">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
+</a>
+
+## 📂 *MY REPOSITORIES*
+Here are some of my projects that you can check out:
+
+- [Project 1: Repository Name](https://github.com/Tejas-Gopale/repo1) - Brief description of Project 1.
+- [Project 2: Repository Name](https://github.com/Tejas-Gopale/repo2) - Brief description of Project 2.
+- [Project 3: Repository Name](https://github.com/Tejas-Gopale/repo3) - Brief description of Project 3.
+- [Project 4: Repository Name](https://github.com/Tejas-Gopale/repo4) - Brief description of Project 4.
+- [Project 5: Repository Name](https://github.com/Tejas-Gopale/repo5) - Brief description of Project 5.
+
+## 🕸 *WEB DEV*
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")][repo]
+[![CSS3](https://img.shields.io/b
