@@ -24,10 +24,9 @@ Here you'll find a curated collection of my projects, collaborations, and coding
 
 ## 🛠️ Tech Stack
 
-| Web Dev       | Backend           | Databases          | Languages      | Tools & IDEs           |
-|---------------|-------------------|--------------------|----------------|------------------------|
-| HTML, CSS, JS | Node.js, PHP      | MongoDB, MySQL     | Java, Python   | VS Code, Sublime, Jupyter, Android Studio |
-| Bootstrap, Tailwind, Next.js, TypeScript | Express.js | PostgreSQL |                | Git, GitHub, Postman, Apache         |
+| Web Development                              | Backend                 | Databases      | Hosting & DevOps             | Languages     | Tools & IDEs                          |
+|-----------------------------------------------|-------------------------|----------------|------------------------------|--------------|----------------------------------------|
+| HTML, CSS, JavaScript, Tailwind, Bootstrap, React.js, Vue.js | Node.js, Java Spring Boot | MongoDB, MySQL, PostgreSQL | Git, GitHub, Postman, Apache, Deployments, Vercel, Netlify | Java, Python  | VS Code, Sublime, Jupyter, Android Studio   |
 
 ---
 
