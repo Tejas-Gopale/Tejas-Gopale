@@ -9,6 +9,7 @@ Here you'll find a curated collection of my projects, collaborations, and coding
 - 🔭 Currently working on something cool!
 - 👯 Open to collaborating on innovative full stack projects.
 - 💬 Ask me about Java, Node.js, Python, or anything full stack.
+- Working for BHILOSA INDUSTRY AND 
 - 🌱 Scaling my startup at [Kary Soft Technology](https://karyasofttechnology.info/).
 
 ---
